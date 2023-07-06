@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+    <path
+        android:name="timer1"
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M7.7 1.67C7.7 1.32 8 1.04 8.34 1.04h3.34c0.34 0 0.62 0.28 0.62 0.63 0 0.34-0.28 0.62-0.62 0.62H8.33C8 2.3 7.71 2.01 7.71 1.67ZM10 3.96c-3.8 0-6.88 3.08-6.88 6.87 0 3.8 3.08 6.88 6.88 6.88s6.88-3.08 6.88-6.88S13.8 3.96 10 3.96Zm-8.13 6.87c0-4.48 3.64-8.12 8.13-8.12s8.13 3.64 8.13 8.12c0 4.5-3.64 8.13-8.13 8.13s-8.13-3.64-8.13-8.13ZM10 6.87c0.35 0 0.63 0.28 0.63 0.63v3.33c0 0.35-0.28 0.63-0.63 0.63s-0.63-0.28-0.63-0.63V7.5c0-0.35 0.28-0.63 0.63-0.63Z"/>
+</vector>

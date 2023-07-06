@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ntduc.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/vSwipe"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:mode="normal"
+    app:dragEdge="right">
+
+    <LinearLayout
+        android:id="@+id/swipeDel"
+        android:layout_width="@dimen/_98sdp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            app:tint="#FF2424"
+            android:src="@drawable/ic_del"
+            android:layout_width="@dimen/_32sdp"
+            android:layout_height="@dimen/_32sdp"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_marginEnd="@dimen/_4sdp"
+        android:id="@+id/swipeMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvTime"
+            android:fontFamily="@font/display_regular"
+            android:textColor="@color/white"
+            android:layout_marginEnd="@dimen/_20sdp"
+            android:textSize="@dimen/_26ssp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <RelativeLayout
+            android:layout_toStartOf="@id/tvTime"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_34sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvName"
+                android:fontFamily="@font/display_regular"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_13ssp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_below="@+id/tvName"
+                android:id="@+id/tvDifference"
+                android:fontFamily="@font/display_regular"
+                android:textColor="#868686"
+                android:textSize="@dimen/_10ssp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+</com.ntduc.swipereveallayout.SwipeRevealLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black2">#80000000</color>
+    <color name="black_background4">#40000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#1AFFFFFF</color>
+    <color name="white3">#40FFFFFF</color>
+    <color name="trans">#00FFFFFF</color>
+
+    <color name="green">#84FF0A</color>
+    <color name="gold">#FF9F0A</color>
+    <color name="red">#F94A29</color>
+    <color name="pink">#F4A6A6</color>
+    <color name="gray">#6F6F6F</color>
+    <color name="gray2">#383838</color>
+    <color name="gray_light">#CCCCCC</color>
+    <color name="gray_light2">#ABABAB</color>
+    <color name="gray_text">#BCBCBC</color>
+    <color name="gray_main_bottom">#EFEFEF</color>
+    <color name="gray_bg_border">#D9D9D9</color>
+    <color name="main_color">#FE9E0A</color>
+    <color name="green_notify">#448BFF</color>
+    <color name="black_background">#181818</color>
+    <color name="black_background5">#1E1E1E</color>
+    <color name="black_background3">#80181818</color>
+    <color name="black_background2">#2C2C2C</color>
+</resources>

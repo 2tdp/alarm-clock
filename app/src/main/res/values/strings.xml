@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+
+    <string name="name">Name</string>
+    <string name="repeat">Repeat</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="cant_del">Can\'t Delete</string>
+    <string name="home">Home</string>
+    <string name="customize">Customize</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="all">All</string>
+    <string name="del">Delete</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="df">Default</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="theme">Theme</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="apply">Apply</string>
+    <string name="allow">Allow</string>
+    <string name="stop">Stop</string>
+    <string name="send">Send</string>
+    <string name="no_browser">No Browser</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="this_action_may_contain_ads">This action may contain ads</string>
+
+    <string name="crop">Crop</string>
+    <string name="error_crop">Error Crop</string>
+    <string name="finish">Press 1 more time to exit</string>
+
+    //main
+    <string name="alarms">Alarms</string>
+    <string name="alarm">Alarm</string>
+    <string name="clock">Clock</string>
+    <string name="timer">Timer</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="no_alarm">No Alarms</string>
+    <string name="notification">Notification</string>
+    <string name="send_notifications">Send notifications</string>
+    <string name="turn_battery_service">Turn Battery Service</string>
+    <string name="allow_apps_overlay">Allow apps overlay</string>
+    <string name="allow_alarm_clock_to_send_you_notifications">Allow “Alarm Clock” to send you notifications?</string>
+
+    //navigation
+    <string name="remove_ads">Remove ADS</string>
+    <string name="more_app">More App</string>
+    <string name="contact_us">Contact us</string>
+    <string name="like_alarm_clock">Like Alarms Clock</string>
+    <string name="pp">Privacy Policy</string>
+    <string name="rate_app">Rate App</string>
+    <string name="rate_your_experience_with_us">Rate your experience with us!</string>
+
+    //remove ads
+    <string name="life_time">Lifetime</string>
+    <string name="price_life_time">199$</string>
+    <string name="yearly">Yearly</string>
+    <string name="price_yearly">39$</string>
+    <string name="des_yearly"> /year</string>
+    <string name="monthly">Monthly</string>
+    <string name="price_monthly">9$</string>
+    <string name="des_monthly"> /month</string>
+    <string name="des_ads">If the themes is not unlocked after payment, You can go to "Store > Restore". You\'ll automatically be charged each renewal period depending on your subscription.
+You can unsubscribe at anytime.</string>
+
+    //add Alarm
+    <string name="am">am</string>
+    <string name="pm">pm</string>
+    <string name="mo">Mo</string>
+    <string name="tu">Tu</string>
+    <string name="we">We</string>
+    <string name="th">Th</string>
+    <string name="fr">Fr</string>
+    <string name="sa">Sa</string>
+    <string name="su">Su</string>
+    <string name="daily">Daily</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="volume">Volume</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="upcoming_alarm">Upcoming alarm</string>
+    <string name="time_snooze">10 minutes</string>
+    <string name="unknown">Unknown</string>
+    <string name="record">Record</string>
+    <string name="record_file">Record File</string>
+    <string name="duration">00:00.00</string>
+    <string name="no_file_yet">No File Yet</string>
+    <string name="permission">Permission</string>
+    <string name="audio">Audio</string>
+    <string name="des_per_alarm">Allow “Alarm Clock” to record audio?</string>
+    <string name="per_record">You need record permission to perform this action</string>
+    <string name="per_notify">You need notification permission to use this app</string>
+    <string name="per_battery">You need battery permission to use this app</string>
+    <string name="per_overlay">You need overlay permission to use this app</string>
+    <string name="err_record">Can\'t record!</string>
+    <string name="save_file">Save File</string>
+    <string name="channel_name">remi_notify</string>
+    <string name="channel_description">This is notify</string>
+    <string name="are_you_sure_you_want_to_delete_the_alarm">Are you sure want to delete the alarm?</string>
+
+    //Clock
+    <string name="search_for_a_city">Search for a city</string>
+
+    //stopwatch
+    <string name="time_stopwatch">00</string>
+    <string name="lap">Lap</string>
+    <string name="start">Start</string>
+    <string name="resume">Continue</string>
+    <string name="pause">Pause</string>
+
+    //Timer
+    <string name="hour">Hour</string>
+    <string name="minute">Minutes</string>
+    <string name="second">Seconds</string>
+</resources>
